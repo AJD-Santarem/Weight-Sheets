@@ -23,6 +23,8 @@
         {"initials":"AJB",          "full_name":"AJ Barreiro",                                          "image":"imgClubs/academia_judo_barreiro.jpg"},
         {"initials":"IPE",          "full_name":"INSTITUTO DOS PUPILOS DO EXERCITO",                    "image":"imgClubs/pupilos_do_exercito.jpg"},
         {"initials":"EJAH",         "full_name":"Escola de Judo Ana Hormigo",                           "image":"imgClubs/escola_judo_ana_hormingo.png"},
+        {"initials":"CSTeot",       "full_name":"Colégio de São Teotónio",                              "image":"imgClubs/colegio_s_teotonio.png"},
+        {"initials":"AJES",         "full_name":"Associação Juvenil de Extremoz",                       "image":"imgClubs/associacao_juvenil_extremoz.jpg"},
 
         {"initials":"CPRM",         "full_name":"Casa Povo Rio Maior",                                  "image":"imgClubs/casa_povo_rio_maior.jpg"},
         {"initials":"SFGP",         "full_name":"Sociedade Filarmónica Gualdim Pais",                   "image":"imgClubs/sociedade_filarmonica_gualdim_pais.jpg"},
@@ -41,7 +43,7 @@
         {"initials":"JCMG",         "full_name":"Judo Clube Marinha Grande",                            "image":"imgClubs/judo_clube_marinha_grande.jpg"},
         {"initials":"JCMG",         "full_name":"Judo Clube da Marinha Grande",                         "image":"imgClubs/judo_clube_marinha_grande.jpg"},
 
-
+        {"initials":"CJDrag",       "full_name":"Clube de Judo \"O Dragão\"",                           "image":"imgClubs/clube_judo_dragao.jpg"},
         {"initials":"CJDg",         "full_name":"Clube de Judo \"O Dragão\"",                           "image":"imgClubs/clube_judo_dragao.jpg"},
         {"initials":"CJDg",         "full_name":"Clube de Judo Dragão",                                 "image":"imgClubs/clube_judo_dragao.jpg"},
 
@@ -56,8 +58,8 @@
         {"initials":"JCSM",         "full_name":"Judo Clube Salvaterra de Magos",                       "image":"imgClubs/judo_clube_salvaterra_magos.jpg"},
 
         {"initials":"EJC",          "full_name":"Escola Judo Coimbra",                                  "image":"imgClubs/escola_judo_coimbra.png"},
-        {"initials":"JCC",          "full_name":"Judo Clube Coimbra",                                   "image":""},
-        {"initials":"JCCb",         "full_name":"Judo Clube Coimbra",                                   "image":""},
+        {"initials":"JCC",          "full_name":"Judo Clube Coimbra",                                   "image":"imgClubs/judo_clube_coimbra.jpg"},
+        {"initials":"JCCb",         "full_name":"Judo Clube Coimbra",                                   "image":"imgClubs/judo_clube_coimbra.jpg"},
 
         {"initials":"GDStºAmaro",   "full_name":"Grupo Desportivo de Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
         {"initials":"GDSA",         "full_name":"Grupo Desportivo de Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
@@ -68,6 +70,7 @@
         {"initials":"ACM",          "full_name":"Associação Cristã da Mocidade",                        "image":""},
         {"initials":"ACMC",         "full_name":"Associação Cristã da Mocidade de Coimbra",             "image":"imgClubs/associacao_crista_mocidade_coimbra.png"},
 
+        {"initials":"Gr. Rec.1ºOut","full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"Gr.1Outº",     "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"1Out",         "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"1Out",         "full_name":"Grupo Recreativo 1º de Outubro de 1911 \"Parafuso\"",  "image":"imgClubs/grupo_recreativo_1out.jpg"},
