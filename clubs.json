@@ -37,12 +37,13 @@
         {"initials":"IPE",           "full_name":"INSTITUTO DOS PUPILOS DO EXERCITO",                    "image":"imgClubs/pupilos_do_exercito.jpg"},
         {"initials":"CSTeot",        "full_name":"Colégio de São Teotónio",                              "image":"imgClubs/colegio_s_teotonio.png"},
         {"initials":"AJES",          "full_name":"Associação Juvenil de Extremoz",                       "image":"imgClubs/associacao_juvenil_extremoz.jpg"},
+        {"initials":"CLSH",          "full_name":"Clube Shido",                                          "image":"imgClubs/shido.jpg"},
+        {"initials":"LLei",          "full_name":"Lobos Leiria",                                         "image":"imgClubs/lobos_leiria.jpg"},
 
         {"initials":"CPRM",          "full_name":"Casa Povo Rio Maior",                                  "image":"imgClubs/casa_povo_rio_maior.jpg"},
         {"initials":"SFGP",          "full_name":"Sociedade Filarmónica Gualdim Pais",                   "image":"imgClubs/sociedade_filarmonica_gualdim_pais.jpg"},
         {"initials":"JCJuncal",      "full_name":"Judo Clube Juncal",                                    "image":"imgClubs/judo_clube_juncal.jpg"},
         {"initials":"AAC",           "full_name":"Associação Académica Coimbra",                         "image":"imgClubs/associacao_academica_coimbra.jpg"},
-        {"initials":"ACR Comeira",   "full_name":"Associação Cultural e Recreativa Comeira",             "image":"imgClubs/associacao_cultural_recreativa_comeira.jpg"},
         {"initials":"CBS",           "full_name":"Casa do Benfica Santarém",                             "image":"imgClubs/casa_benfica_santarem.jpg"},
         {"initials":"CPMC",          "full_name":"Casa Povo Miranda Corvo",                              "image":"imgClubs/casa_povo_miranda_corvo.png"},
         {"initials":"NSCM",          "full_name":"Núcleo Sporting Minde",                                "image":"imgClubs/nucleo_sporting_minde.jpg"},
@@ -52,11 +53,14 @@
         {"initials":"CNS",           "full_name":"Construções Norte Sul",                                "image":"imgClubs/construcoes_norte_sul.png"},
         {"initials":"Cns",           "full_name":"Construções Norte Sul",                                "image":"imgClubs/construcoes_norte_sul.png"},
 
+        {"initials":"ACR Comeira",   "full_name":"Associação Cultural e Recreativa Comeira",             "image":"imgClubs/associacao_cultural_recreativa_comeira.jpg"},
+        {"initials":"ACRComeira",   "full_name":"Associação Cultural e Recreativa Comeira",             "image":"imgClubs/associacao_cultural_recreativa_comeira.jpg"},
+
         {"initials":"EJAH",          "full_name":"Escola de Judo Ana Hormigo",                           "image":"imgClubs/escola_judo_ana_hormingo.png"},
-        {"initials":"EJAHormigo",   "full_name":"Escola de Judo Ana Hormigo",                           "image":"imgClubs/escola_judo_ana_hormingo.png"},
+        {"initials":"EJAHormigo",   "full_name":"Escola de Judo Ana Hormigo",                            "image":"imgClubs/escola_judo_ana_hormingo.png"},
 
         {"initials":"AJFC",          "full_name":"Academia de Judo Filipa Cavalleri",                    "image":"imgClubs/academia_filipa_cavaleri.jpg"},
-        {"initials":"AJFCavalleri",  "full_name":"Academia de Judo Filipa Cavalleri",            "image":"imgClubs/academia_filipa_cavaleri.jpg"},
+        {"initials":"AJFCavalleri",  "full_name":"Academia de Judo Filipa Cavalleri",                    "image":"imgClubs/academia_filipa_cavaleri.jpg"},
 
         {"initials":"CJTN",          "full_name":"Clube Judo Torres Novas",                              "image":"imgClubs/clube_judo_torres_novas.jpg"},
         {"initials":"CJTN",          "full_name":"Clube de Judo de Torres Novas",                        "image":"imgClubs/clube_judo_torres_novas.jpg"},
@@ -73,6 +77,7 @@
 
         {"initials":"MC",            "full_name":"Montanha Clube",                                       "image":"imgClubs/montanha_clube.jpg"},
         {"initials":"MonC",          "full_name":"Montanha Clube",                                       "image":"imgClubs/montanha_clube.jpg"},
+        {"initials":"Mont.Clube",    "full_name":"Montanha Clube",                                       "image":"imgClubs/montanha_clube.jpg"},
        
         {"initials":"JCSM",          "full_name":"Judo Clube Salvaterra Magos",                          "image":"imgClubs/judo_clube_salvaterra_magos.jpg"},
         {"initials":"JCSa",          "full_name":"Judo Clube Salvaterra Magos",                          "image":"imgClubs/judo_clube_salvaterra_magos.jpg"},
@@ -83,8 +88,9 @@
         {"initials":"JCCb",          "full_name":"Judo Clube Coimbra",                                   "image":"imgClubs/judo_clube_coimbra.jpg"},
 
         {"initials":"GDStºAmaro",    "full_name":"Grupo Desportivo de Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
+        {"initials":"G.D.Stº Amaro",    "full_name":"Grupo Desportivo de Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
         {"initials":"GDSA",          "full_name":"Grupo Desportivo de Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
-        {"initials":"GDSA",          "full_name":"Grupo Desportivo Santo Amaro",                      "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
+        {"initials":"GDSA",          "full_name":"Grupo Desportivo Santo Amaro",                         "image":"imgClubs/grupo_desportivo_santo_amaro.jpg"},
 
         {"initials":"SCOCS",         "full_name":"Sport Clube Operários de Cem Soldos",                  "image":"imgClubs/sport_clube_operarios_cem_soldos.jpg"},
         {"initials":"COCS",          "full_name":"Sport Clube Operários de Cem Soldos",                  "image":"imgClubs/sport_clube_operarios_cem_soldos.jpg"},
@@ -97,6 +103,7 @@
         {"initials":"Gr.1Outº",      "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"1Out",          "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"1Out",          "full_name":"Grupo Recreativo 1º de Outubro de 1911 \"Parafuso\"",  "image":"imgClubs/grupo_recreativo_1out.jpg"},
+        {"initials":"1ºOut",          "full_name":"Grupo Recreativo 1º de Outubro de 1911 \"Parafuso\"",  "image":"imgClubs/grupo_recreativo_1out.jpg"},
 
         {"initials":"CJR",           "full_name":"Clube Judo Riachos",                                   "image":"imgClubs/clube_judo_riachos.jpg"},
         {"initials":"CJRi",          "full_name":"Clube Judo Riachos",                                   "image":"imgClubs/clube_judo_riachos.jpg"},
