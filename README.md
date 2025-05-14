@@ -7,4 +7,5 @@ sudo apt-get install wkhtmltopdf -y
 pip install openpyxl
 pip install pdfkit
 pip install pandas
+pip install openpyxl
 ```

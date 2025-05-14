@@ -27,9 +27,7 @@
         {"initials":"CDASJ",         "full_name":"Clube Desportivo Areias de S. João",                   "image":"imgClubs/clube_desportivo_areias_s_joao.jpg"},
         {"initials":"CM",            "full_name":"Colégio Moderno",                                      "image":""},
         {"initials":"CHE",           "full_name":"Cheleirense",                                          "image":"imgClubs/cheleirense.jpg"},
-        {"initials":"CSTeot",        "full_name":"Colégio de São Teotónio",                              "image":"imgClubs/colegio_s_teotonio.png"},
         {"initials":"AJES",          "full_name":"Associação Juvenil de Extremoz",                       "image":"imgClubs/associacao_juvenil_extremoz.jpg"},
-        {"initials":"LLei",          "full_name":"Lobos Leiria",                                         "image":"imgClubs/lobos_leiria.jpg"},
         {"initials":"ACHU",          "full_name":"Academia Chushin",                                     "image":"imgClubs/academia_chushin.jpg"},
         {"initials":"AINW",          "full_name":"Associação Ippon Now",                                 "image":""},
         {"initials":"BEJUDO",        "full_name":"BEJUDO Clube",                                         "image":""},
@@ -44,7 +42,6 @@
         {"initials":"AAJG",          "full_name":"Academia de Judo Da Guarda",                           "image":"imgClubs/academia_judo_guarda.jpg"},
         {"initials":"CEJA",          "full_name":"CEJA Açores",                                          "image":""},
 
-
         {"initials":"CPRM",          "full_name":"Casa Povo Rio Maior",                                  "image":"imgClubs/casa_povo_rio_maior.jpg"},
         {"initials":"SFGP",          "full_name":"Sociedade Filarmónica Gualdim Pais",                   "image":"imgClubs/sociedade_filarmonica_gualdim_pais.jpg"},
         {"initials":"JCJuncal",      "full_name":"Judo Clube Juncal",                                    "image":"imgClubs/judo_clube_juncal.jpg"},
@@ -55,8 +52,18 @@
         {"initials":"AMFZ",          "full_name":"Associação de Marinheiros de Ferreira do Zêzere",      "image":"imgClubs/associacao_marinheiros_ferreira_zezere.jpg"},
         {"initials":"SCEB",          "full_name":"Sport Clube Escolar Bombarrelense",                    "image":"imgClubs/sport_clube_escolar_bombarralense.jpg"},
 
+        {"initials":"JCPN",          "full_name":"Judo Clube do Pinhal Novo",                            "image":"imgClubs/judo_clube_pinhal_novo.jpeg"},
+        {"initials":"JCPN",          "full_name":"JUDO CLUBE DO PINHAL NOVO",                            "image":"imgClubs/judo_clube_pinhal_novo.jpeg"},
+
+        {"initials":"CSTeot",        "full_name":"Colégio de São Teotónio",                              "image":"imgClubs/colegio_s_teotonio.png"},
+        {"initials":"CST",           "full_name":"Colégio de São Teotónio",                              "image":"imgClubs/colegio_s_teotonio.png"},
+
+        {"initials":"LLei",          "full_name":"Lobos Leiria",                                         "image":"imgClubs/lobos_leiria.jpg"},
+        {"initials":"Lobos",         "full_name":"Lobos Leiria",                                         "image":"imgClubs/lobos_leiria.jpg"},
+
         {"initials":"CLSH",          "full_name":"Clube Shido",                                          "image":"imgClubs/shido.jpg"},
         {"initials":"ClSh",          "full_name":"Clube Shido",                                          "image":"imgClubs/shido.jpg"},
+        {"initials":"CJSh",          "full_name":"Clube Shido",                                          "image":"imgClubs/shido.jpg"},
 
         {"initials":"SHO",           "full_name":"Shotokai",                                             "image":"imgClubs/shotokai.jpg"},
         {"initials":"SHOTOKAY",      "full_name":"Shotokai",                                             "image":"imgClubs/shotokai.jpg"},
@@ -103,6 +110,7 @@
         {"initials":"CJDrag",        "full_name":"Clube de Judo \"O Dragão\"",                           "image":"imgClubs/clube_judo_dragao.jpg"},
         {"initials":"CJDg",          "full_name":"Clube de Judo \"O Dragão\"",                           "image":"imgClubs/clube_judo_dragao.jpg"},
         {"initials":"CJDg",          "full_name":"Clube de Judo Dragão",                                 "image":"imgClubs/clube_judo_dragao.jpg"},
+        {"initials":"CJD",           "full_name":"Clube de Judo Dragão",                                 "image":"imgClubs/clube_judo_dragao.jpg"},
 
         {"initials":"ULHT",          "full_name":"Judo - Universidade Lusófona",                         "image":"imgClubs/judo_ulht.png"},
         {"initials":"ULHT - 1ASR",   "full_name":"Judo - Universidade Lusófona - 1ASR",                  "image":"imgClubs/judo_ulht.png"},
@@ -132,6 +140,7 @@
         {"initials":"ACMC",          "full_name":"Associação Cristã da Mocidade de Coimbra",             "image":"imgClubs/associacao_crista_mocidade_coimbra.png"},
 
         {"initials":"Gr. Rec.1ºOut", "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
+        {"initials":"G.R.1 Out",     "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"Gr.1Outº",      "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"GR1ºOut",       "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
         {"initials":"1Out",          "full_name":"Grupo Recreativo 1º Outubro",                          "image":"imgClubs/grupo_recreativo_1out.jpg"},
@@ -145,6 +154,7 @@
         {"initials":"EJPombal",      "full_name":"Escola Judo Pombal",                                   "image":"imgClubs/escola_judo_pombal.png"},
         {"initials":"CCDEJP",        "full_name":"Escola Judo Pombal",                                   "image":"imgClubs/escola_judo_pombal.png"},
         {"initials":"EJPb",          "full_name":"Escola Judo Pombal",                                   "image":"imgClubs/escola_judo_pombal.png"},
+        {"initials":"EJP",           "full_name":"Escola Judo Pombal",                                   "image":"imgClubs/escola_judo_pombal.png"},
 
         {"initials":"LJC",           "full_name":"Lezíria Judo Clube",                                   "image":"imgClubs/leziria_judo_clube.jpg"},
         {"initials":"LJCl",          "full_name":"Lezíria Judo Clube",                                   "image":"imgClubs/leziria_judo_clube.jpg"},
